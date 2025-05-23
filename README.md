@@ -1,5 +1,7 @@
 # BANK LOAN ANALYSIS
 
+<img src= "https://github.com/Gtshivanand/Bank-Loan-Analysis-Dashboard/blob/main/Bank%20Loan%20Analysis/Bank%20Loan%20Analysis.jpeg"/>
+
 This repository contains an interactive Excel dashboard designed for analyzing bank loan data. It provides key insights into loan approvals, customer demographics, loan amounts, and repayment trends. With visually appealing charts and slicers, it enables dynamic filtering and comprehensive data-driven decision-making. Ideal for professionals managing loan portfolios or conducting financial analysis.
 
 Introduction:
